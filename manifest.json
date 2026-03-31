@@ -1,0 +1,18 @@
+{
+  "name": "Gold Purchase Calculator",
+  "short_name": "Gold Calc",
+  "description": "Calculate gold purchase prices by weight, karat and spot price",
+  "start_url": "./gold-calculator-31.html",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#667eea",
+  "theme_color": "#667eea",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
