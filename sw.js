@@ -1,8 +1,8 @@
 const CACHE_NAME = 'gold-calc-v1';
 const ASSETS = [
-  './gold-calculator-31.html',
-  './manifest.json',
-  './icon.svg'
+  '/Android/index.html',
+  '/Android/manifest.json',
+  '/Android/icon.svg'
 ];
 
 // Install: cache all assets
